@@ -1,0 +1,31 @@
+
+.top{
+	height: 50vh;
+	position: relative;
+	border-bottom:solid rgba(0,0,0,.2) 2px;
+	
+}
+#input{
+	position:absolute;
+	bottom:0;
+	width:100%;
+	font-size:65px;
+	border: none;
+	background-color:white;
+	color:black;
+	
+}
+.bottom{
+	height:50vh; 
+	font-size:30px;
+	
+}
+.col-3{
+	border:none;
+	background-color: white;
+	font-weight: 400;
+}
+.style{
+	color:orange;
+	font-weight:500;
+}
